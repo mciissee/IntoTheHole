@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <strings name="SCORE">Score {0}</strings>
+  <strings name="BEST">Best {0}</strings>
+  <strings name="EFFECTS">Effects</strings>
+  <strings name="MUSIC">Music</strings>
+  <strings name="AUDIO">Audio</strings>
+  <strings name="GAMEPLAY">Gameplay</strings>
+  <strings name="MOVE_MODE">Movement</strings>
+  <strings name="ABOUT">About</strings>
+  <strings name="TOUCH">Touch</strings>
+  <strings name="ACCELEROMETER">Gyroscope</strings>
+  <strings name="ABOUT_MESSAGE">Into The Hole is game developped by Mamadou Cisse.</strings>
+  <strings name="PRESS_TO_QUIT">Press again to quit !</strings>
+  <strings name="TUTORIAL_01">The purpose in this game is to survive as long as possible, for it you have to avoid the obstacles which appear.</strings>
+  <strings name="TUTORIAL_02">Touch the left part of the screen to turn left.</strings>
+  <strings name="TURORIAL_03">The right part of the screen to turn right.</strings>
+  <strings name="TUTORIAL_04">You can change the move mode in the parameters.</strings>
+  <strings name="NEW_RECORD">New Best Score</strings>
+  <strings name="TOTAL">Total {0}</strings>
+</resources>

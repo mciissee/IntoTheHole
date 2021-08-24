@@ -1,0 +1,10 @@
+lastUpgrade=00935
+proj.pluginVersion=0.9.35
+proj.AppId=246961546597
+and.BundleId=isse.games.intothehole
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e246961546597%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3eisse.games.intothehole%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_become_a_legend%22%3eCgkI5cq4gJgHEAIQAQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_500%22%3eCgkI5cq4gJgHEAIQAw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_1000%22%3eCgkI5cq4gJgHEAIQBA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_1500%22%3eCgkI5cq4gJgHEAIQBQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_2000%22%3eCgkI5cq4gJgHEAIQBg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_2500%22%3eCgkI5cq4gJgHEAIQBw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_3000%22%3eCgkI5cq4gJgHEAIQCQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_3500%22%3eCgkI5cq4gJgHEAIQCg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_4000%22%3eCgkI5cq4gJgHEAIQCw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_5000%22%3eCgkI5cq4gJgHEAIQDA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_10000%22%3eCgkI5cq4gJgHEAIQDQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_5000_x2%22%3eCgkI5cq4gJgHEAIQDg%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_5000_x3%22%3eCgkI5cq4gJgHEAIQDw%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_7500%22%3eCgkI5cq4gJgHEAIQEA%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_legend%22%3eCgkI5cq4gJgHEAIQEQ%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22leaderboard_top_players%22%3eCgkI5cq4gJgHEAIQCA%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <strings name="TUTORIAL_01">El objetivo en este juego es sobrevivir el mayor tiempo posible, para esto hay que esquivar los obstáculos que aparecen.</strings>
+  <strings name="TUTORIAL_02">Toque el lado izquierdo y la pantalla para girar a la izquierda!</strings>
+  <strings name="TURORIAL_03">Y el derecho a ir a la derecha!</strings>
+  <strings name="TUTORIAL_04">Puede cambiar el modo de desplazamiento en la configuración.</strings>
+  <strings name="ABOUT">A proposito</strings>
+  <strings name="ABOUT_MESSAGE">Into The Hole es un juego desarrollado por Mamadou Cissé.</strings>
+  <strings name="GAMEPLAY">Jugabilidad</strings>
+  <strings name="MOVE_MODE">Movimiento</strings>
+  <strings name="ACCELEROMETER">Giroscopio</strings>
+  <strings name="TOUCH">Tocar</strings>
+  <strings name="AUDIO">Sonido</strings>
+  <strings name="EFFECTS">Efectos de sonido</strings>
+  <strings name="MUSIC">Música</strings>
+  <strings name="PRESS_TO_QUIT">Presione de nuevo para salir!</strings>
+  <strings name="SCORE">Puntuació {0}</strings>
+  <strings name="BEST">Mejor {0}</strings>
+  <strings name="NEW_RECORD">Nuevo récord</strings>
+  <strings name="TOTAL">Total {0}</strings>
+</resources>
